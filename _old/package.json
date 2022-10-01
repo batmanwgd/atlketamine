@@ -1,0 +1,47 @@
+{
+  "name": "atlketamine",
+  "version": "1.0.0",
+  "description": "Atlanta Ketamine provides safe and legal ketamine-assisted therapy in Atlanta and offers relief to those struggling with treatment-resistant mental health conditions, such as depression, anxiety and PTSD, through evidence-based and medically-supervised psychedelic-assisted therapies. ",
+  "main": "index.js",
+  "repository": "git@github.com:batmanwgd/atlketamine.git",
+  "author": "Kaska Miskolczi <rosenfaden@gmail.com>",
+  "license": "GNU",
+  "private": false,
+  "dependencies": {
+    "bourbon": "^7.2.0",
+    "config": "^3.3.8",
+    "get": "^1.4.0",
+    "gulp": "^4.0.2",
+    "gulp-cli": "^2.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssnano": "^2.1.3",
+    "gulp-postcss": "^9.0.1",
+    "gulp-sass": "^5.1.0",
+    "gulp-sourcemap": "^1.0.2",
+    "gulp-sourcemaps": "^3.0.0",
+    "gulp-zip": "^5.1.0",
+    "npm": "^8.19.2",
+    "npm-check": "^6.0.1",
+    "prefix": "^1.0.0",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "bower": "^1.8.14",
+    "browserslist": "^4.21.4",
+    "components": "^0.1.0",
+    "css-mqpacker": "^7.0.0",
+    "cssnano": "^5.1.13",
+    "dart-sass": "^1.25.0",
+    "gulp-imagemin": "^8.0.0",
+    "gulp-jade": "^1.1.0",
+    "gulp-jsbeautifier": "^3.0.1",
+    "gulp-rename": "^2.0.0",
+    "hammerjs": "^2.0.8",
+    "jquery": "^3.6.1",
+    "postcss": "^8.0.0",
+    "sass-mixins": "^0.13.0"
+  },
+  "scripts": {
+    "start": "node --experimental-modules src/index.mjs "
+  }
+}

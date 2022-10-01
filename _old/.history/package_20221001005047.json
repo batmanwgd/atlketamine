@@ -1,0 +1,10 @@
+{
+  "name": "atlketamine",
+  "version": "1.0.0",
+  "description": "Atlanta Ketamine provides safe and legal ketamine-assisted therapy in Atlanta and offers relief to those struggling with treatment-resistant mental health conditions, such as depression, anxiety and PTSD, through evidence-based and medically-supervised psychedelic-assisted therapies. ",
+  "main": "index.js",
+  "repository": "git@github.com:batmanwgd/atlketamine.git",
+  "author": "Kaska Miskolczi <kaska.miskolczi@flocksafety.com>",
+  "license": "MIT",
+  "private": false
+}
